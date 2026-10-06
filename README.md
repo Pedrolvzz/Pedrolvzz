@@ -1,4 +1,4 @@
-## Hi! 👋
+## Hi! I'm Pedro 👋
 
 I'm learning to code and building my path in tech. My current focus is **Python**, programming fundamentals, and small projects that help me put theory into practice.
 I enjoy understanding how things work, testing ideas, and finding ways to improve what I've built. I want to develop a solid foundation and learn to create useful solutions to everyday problems.
