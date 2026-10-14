@@ -1,15 +1,29 @@
-## Hi! I'm Pedro 👋
+<div align="center">
 
-I'm learning to code and building my path in tech. My current focus is **Python**, programming fundamentals, and small projects that help me put theory into practice.
-I enjoy understanding how things work, testing ideas, and finding ways to improve what I've built. I want to develop a solid foundation and learn to create useful solutions to everyday problems.
+# Pedro · Developer in progress
 
-## 🚀 Where I'm headed
+**Python & Web Development**
 
-I plan to study **Software Engineering**. I'm exploring different paths in tech while deepening my programming knowledge.
-My goal is to grow from simple programs to more complete applications with organized code and practical value.
+Construindo projetos, explorando ideias e evoluindo a cada versão.
 
-## 💬 About this profile
+<br>
 
-This space follows my progress through learning, experiments, and projects that show what I'm studying and how I'm putting it into practice.
-Each project is an opportunity to learn something new, find bugs, and improve my solutions.
-**Learning, building, and growing — one project at a time.**
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF" alt="Python">
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=58A6FF" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=58A6FF" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=58A6FF" alt="JavaScript">
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=58A6FF" alt="Git">
+
+<br><br>
+
+**Teresina, Brasil** &nbsp; · &nbsp; **Aprendizado & projetos**
+
+</div>
+
+---
+
+### / sobre mim
+
+Sou Pedro, desenvolvedor em formação com foco em **Python e desenvolvimento web**. Gosto de transformar o que estudo em projetos que posso usar, compartilhar e melhorar.
+
+Tenho
