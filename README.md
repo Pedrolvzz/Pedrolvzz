@@ -26,8 +26,6 @@ Construindo projetos, explorando ideias e evoluindo a cada versão.
 
 Sou Pedro, desenvolvedor em formação com foco em **Python e desenvolvimento web**. Gosto de transformar o que estudo em projetos que posso usar, compartilhar e melhorar.
 
-Tenho interesse em colaborações e oportunidades para ganhar experiência prática.
-
 ### / projetos selecionados
 
 | Projeto | Sobre |
