@@ -1,3 +1,5 @@
+![Banner](./banner-underwater.png)
+
 <div align="center">
 
 # Pedro · Developer in progress
